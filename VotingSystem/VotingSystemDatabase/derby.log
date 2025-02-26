@@ -1,0 +1,19 @@
+Tue Jan 28 10:39:15 SAST 2025 : Apache Derby Network Server - 10.16.1.1 - (1901046) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue Jan 28 10:39:15 SAST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0194-ac10-927a-000013fd1329 
+on database directory E:\OneDrive - Cape Peninsula University of Technology\ADP\VotingSystemDatabase\VotingSystemDatabase with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Program%20Files/Java/jdk-17/Db/db-derby-10.16.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.11+7-LTS-207
+user.dir=C:\Program Files\Java\jdk-17\Db\db-derby-10.16.1.1-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\OneDrive - Cape Peninsula University of Technology\ADP\VotingSystemDatabase
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jan 28 10:44:25 SAST 2025: Shutting down Derby engine
+----------------------------------------------------------------
+Tue Jan 28 10:44:25 SAST 2025:
+Shutting down instance a816c00e-0194-ac10-927a-000013fd1329 on database directory E:\OneDrive - Cape Peninsula University of Technology\ADP\VotingSystemDatabase\VotingSystemDatabase with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
